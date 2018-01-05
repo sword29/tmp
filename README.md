@@ -3,4 +3,4 @@ testRD
 just test
 
 Branch Rd
-Create a new branch is quick & simple
+Craete a new branch is quit and simple
